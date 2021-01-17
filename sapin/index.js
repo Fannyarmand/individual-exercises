@@ -1,5 +1,5 @@
 const sapin = require('./src/sapin');
 
-console.log(sapin(10));
+console.log(sapin(25));
 
 
